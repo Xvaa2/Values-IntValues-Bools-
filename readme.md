@@ -9,3 +9,6 @@ hm you're still here?, You must be looking around my junk code and outdated sour
 ok, look around! **BUT** you know what they say.
 
 NO CAT SKIDDERS IF YOU WANNA COPY SOME SOURCE SCRIPT, GO FIND YOURSELF A LUA BOOK AND LEARN SOME LUA OFF LUA.ORG! KIDS!
+
+
+__Feel free to message me @ !peter#0069 (DISCORD)__
