@@ -1,0 +1,3 @@
+syn=true
+loadstring(syn.request({Url = "whatever link goes here", Method = "GET"}).Body)()
+syn=send_HTTP
